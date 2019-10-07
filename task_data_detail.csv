@@ -1,0 +1,5 @@
+CARD ID, difficult, number_of_cards_in_sprint, standard_acceptance_requirements, clients_requirements, card_value, first_big_concept, second_big_concept, is_backend, avg_seniority_back, is_frontend, avg_seniority_frontend, is_feature, is_hotfix, is_improvement
+RUNA-662,hard,10,7,4,476,payroll,kardex,Si,0.4,No,0.7,Si,No,No
+RUNA-38,easy,8,8,5,350,payroll,isn,Si,0.5,Si,0.6,No,Si,No
+RUNA-571,easy,12,3,6,120,payroll,employees,Si,0.8,Si,0.65,No,Si,No
+RUNA-40,hard,13,3,4,456,outsourcer,company,Si,0.7,Si,0.7,No,No,Si
